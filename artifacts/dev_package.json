@@ -1,0 +1,47 @@
+{
+	"id": "53E34887-F912-ED11-BD6E-000D3AB1D9FF",
+	"createdAt": "2022-08-03T06:57:25.433Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-3dviewer",
+		"testServers": []
+	},
+	"name": "neptunesoftware-dxp-abb-3dviewer",
+	"description": null,
+	"ver": "22.8.3.658",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "22480483-D688-EB11-85AA-0003FF1E43FB",
+			"ver": "22.8.3.857",
+			"application": "3dviewer",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataMock": [],
+	"odataSource": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"wf_definition": [],
+	"department": [],
+	"script_scheduler": [],
+	"connector": []
+}
